@@ -16,3 +16,4 @@
 16. На веб интерфейсе модифицировать файл bug_report.xml -> edit this file ->commit changes, добавить баг репорт в формате XML -add file -> create new file "bug_report_2"
 17. Сделать Commit changes (сохранить) изменения на веб интерфейсе -> commit new file
 18. Синхронизировать внешний и локальный репозиторий XML -> git pull
+19.
