@@ -4,6 +4,7 @@
 	<types> "functional, non_functional"</types>
 	<test_design> "equivalence classes, boundary values"</test_design>
 	<testing_artefact> "test cases, bug reports" </test_artefact>
+</hard_skills>
 
 
 
@@ -12,5 +13,5 @@
 	<team> "sociability" </team>
 	<completing_tasks> "creativity" </completing_tasks>
 	<job> "stress_tolerance" </job>
-
+</soft_skills>
 
