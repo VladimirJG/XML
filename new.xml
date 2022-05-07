@@ -2,12 +2,17 @@
 	<Ф>"Данилов"</ф>
 	<и>"Владимир"</и>
 	<о>"Вадимович"</о>
+</ФИО>
 <age>
 	<a>"36"</a>
+</age>
 
 <numbers_of_pets>
 
 	<p>"0"</p>
 
+</numbers_of_pets>
+
 <first_cash>
 	<fc>"589$"</fc>
+</first_cash>
