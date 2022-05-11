@@ -1,4 +1,5 @@
- <likes_movie>
+<Free time>
+<likes_movie>
 	 <lm>"Forest_Gump"</lm>
 </likes_movie>
 
@@ -17,5 +18,6 @@
  <country_would_like_to_visit>
 	 <country>"Czech Republic"</country>
 </country_would_like_to_visit>
+	</Free time>
 
 
