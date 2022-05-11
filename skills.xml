@@ -1,3 +1,4 @@
+<Skills>
 <hard_skills>
 
 	<theory>"testing theory"</theory>
@@ -14,4 +15,4 @@
 	<completing_tasks> "creativity" </completing_tasks>
 	<job> "stress_tolerance" </job>
 </soft_skills>
-
+</Skills>
