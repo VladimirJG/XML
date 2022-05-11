@@ -1,1 +1,21 @@
-<br>"modefied bug_report"</br>
+<Bug_report> 
+  <id> 01_JSON> </id>
+  <Summary> команда 'vim' не вносит изменения в файл new.json </Summary>
+  <Precondition> 
+    <Pc_1> Войти на GitHub(онлайн) </Pc_1>
+    <Pc_2> Aвторизоваться как VladimirJG </Pc_2>
+    <Pc_3> Войти на Git Bash </Pc_3>
+  </Precondition> 
+  <Step to reproduce>
+    <Step_1> Войти в репозиторий JSON(путь) </Step_1>
+    <Step_2> Войти в файл new.json командой 'vim' </Step_2>
+    <Step_3> Внести изменения </Step_3>
+    <Step_4> Сохранить и выйти </Step_4>
+    <Step_5> Закоммитить и отправить изменения на внешний репозиторий </Step_5>
+    <Step_6> Проверить наличие изменений на внешнем репозитории </Step_6>
+  </Step to reproduce>
+  <Severety> Medium </Severety>
+  <Priority> Blocker </Priority>
+  <Workaround> Windows 11, Google Chrome v101.0.4951.54 </Workaround>
+  <Comments> При использовании команды 'nano' изменения вносятся/сохраняются </Comments>    
+  </Bug_report>
